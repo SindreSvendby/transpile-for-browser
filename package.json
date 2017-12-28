@@ -1,5 +1,5 @@
 {
-  "name": "user-agent-to-browserlist",
+  "name": "transpile-for-browser",
   "version": "0.1.0",
   "description": "transform a user-agent string to a browserlist string ",
   "main": "index.js",
